@@ -3,3 +3,4 @@ resolusi 2
 resolusi 3
 resolusi 4
 resolusi 5
+resolusi 6
